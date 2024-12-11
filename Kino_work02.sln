@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kino_work02", "Kino_work02\Kino_work02.csproj", "{B20DBD70-A60C-4634-9AC5-3F49D0882798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20DBD70-A60C-4634-9AC5-3F49D0882798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20DBD70-A60C-4634-9AC5-3F49D0882798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20DBD70-A60C-4634-9AC5-3F49D0882798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20DBD70-A60C-4634-9AC5-3F49D0882798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA75250-AFBC-479B-B8A4-AB717E2D6E07}
+	EndGlobalSection
+EndGlobal
