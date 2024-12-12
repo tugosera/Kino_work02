@@ -85,7 +85,7 @@
             button1.Name = "button1";
             button1.Size = new Size(99, 27);
             button1.TabIndex = 5;
-            button1.Text = "select";
+            button1.Text = "login";
             button1.UseVisualStyleBackColor = true;
             // 
             // button2
